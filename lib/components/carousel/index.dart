@@ -24,7 +24,7 @@ class CarouselImages extends HookWidget {
           const Text('Welcome',
               style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold)),
           const SizedBox(
-            height: 25,
+            height: 35,
           ),
           SizedBox(
             height: 40,
